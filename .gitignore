@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+*.tif
+*.gz
+*.zip
+Globe Lights/
+MX City Lights/
+mexico city geometries/
+*.svg
+*.png
+java island geometry/
